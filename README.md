@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunacdp
 - 👩🏻‍💻 I'm in career transitioning from designer to developer
 - 🌱 I’m currently learning full stack development
-- 📫 How to reach me: mail me on bruna.campos@gmail.com
+- 📫 How to reach me: mail me on brunacamposdev@gmail.com
 
 
 <!---
