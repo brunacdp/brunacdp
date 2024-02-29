@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunacdp
 - 👩🏻‍💻 I'm in career transitioning from designer to developer
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning full stack development (practitioner front end - HTML, CSS, BootStrap)
 - 📫 How to reach me: mail me on brunacamposdev@gmail.com
 
 
