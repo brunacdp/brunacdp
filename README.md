@@ -5,6 +5,7 @@
 
 :woman_student: Curso Pós Graduação em Desenvolvimento Full Stack
 
+:envelope: brunacamposdev@gmail.com
 
 
 ## Tecnologias e Ferramentas
