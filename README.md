@@ -12,7 +12,8 @@
 - [X] Figma
 - [X] HTML
 - [X] CSS
-- [ ] Estudando Practitioner Front End - HTML, CSS, BootStrap
+- [X] Bootstrap
+- [ ] Estudando Intermediary Front End - JavaScript
 
 
 
