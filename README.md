@@ -13,7 +13,8 @@
 - [X] HTML
 - [X] CSS
 - [X] Bootstrap
-- [ ] Estudando Intermediary Front End - JavaScript
+- [X] JavaScript
+- [ ] Angular
 
 
 
