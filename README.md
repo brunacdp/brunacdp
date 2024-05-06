@@ -3,12 +3,12 @@
 
 :woman_technologist: Estou em transição de carreira
 
-:woman_student: Curso Pós Graduação em Desenvolvimento Full Stack
-
+:woman_student: Estudo Desenvolvimento Full Stack
+<br><br>
 
 ## Projetos
 :link: Site Noz Colaborativa: https://github.com/brunacdp/nozcolab
-
+<br><br>
 
 ## Tecnologias e Ferramentas
 ### Lógica de Programação e Desenvolvimento Web:
