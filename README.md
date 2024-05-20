@@ -1,7 +1,7 @@
 # 👋 Olá!
 :raising_hand_woman: Sou a Bruna
 
-:woman_technologist: Estou em transição de carreira
+:woman_technologist: Desenvolvedora Web | Front End
 
 :woman_student: Estudo Desenvolvimento Full Stack
 <br><br>
