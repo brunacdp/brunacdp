@@ -1,9 +1,9 @@
 # 👋 Olá!
 :raising_hand_woman: Sou a Bruna
 
-:woman_technologist: E-commerce - Marketing - Social Media - Design - Web
+:woman_technologist: Tenho experiências em: E-commerce, Marketing, Social Media, Design, Web
 
-:woman_student: Estudo Desenvolvimento Web Front End
+:woman_student: Estudando Desenvolvimento Web Front End
 <br><br>
 
 ## Projetos
