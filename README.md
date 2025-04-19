@@ -7,15 +7,18 @@
 <br><br>
 
 ## Projetos
-:link: [Site Noz Colaborativa](https://github.com/brunacdp/nozcolab)
+![Image](https://github.com/user-attachments/assets/9299061b-1a9d-452f-9dd5-79d307cb38c1)
+:chipmunk: [Site Noz Colaborativa](https://github.com/brunacdp/nozcolab)
+<br><br>
 
-:link: [Página "em construção" Noz Colaborativa](https://github.com/brunacdp/nozcolabtemp)
+![Image](https://github.com/user-attachments/assets/2f96278f-46a1-4c35-9a17-d882ad39e60d)
+:chestnut: [Página "em construção" Noz Colaborativa](https://github.com/brunacdp/nozcolabtemp)
 <br><br>
 
 ## Tecnologias e Ferramentas
 ### Lógica de Programação e Desenvolvimento Web:
 - [X] Java: Conceitos básicos, estruturas de controle, POO
-- [X] Interface de Software: UX/UI
+- [X] Interface de Software: Figma, UX/UI
 - [X] Front-End: :ballot_box_with_check: HTML, :ballot_box_with_check: CSS, :ballot_box_with_check: JavaScript, :ballot_box_with_check: Bootstrap
 
 <!---
