@@ -1,9 +1,7 @@
 # 👋 Olá!
 :raising_hand_woman: Sou a Bruna
 
-:woman_technologist: Tenho experiências em: E-commerce, Marketing, Social Media, Design, Web
-
-:woman_student: Estudando Desenvolvimento Web Front End
+:woman_technologist: Tenho experiências em: E-commerce, Marketing, Design, Social Media, Web
 <br><br>
 
 ## Projetos
@@ -16,10 +14,8 @@
 <br><br>
 
 ## Tecnologias e Ferramentas
-### Lógica de Programação e Desenvolvimento Web:
-- [X] Java: Conceitos básicos, estruturas de controle, POO
 - [X] Interface de Software: Figma, UX/UI
-- [X] Front-End: :ballot_box_with_check: HTML, :ballot_box_with_check: CSS, :ballot_box_with_check: JavaScript, :ballot_box_with_check: Bootstrap
+- [X] Front-End: HTML, CSS, JavaScript, Bootstrap
 
 <!---
 brunacdp/brunacdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
